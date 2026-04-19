@@ -16,3 +16,4 @@ Pour utiliser le module, placez le fichier `logic.py` dans votre dossier de proj
 
 ```python
 import logic
+```
