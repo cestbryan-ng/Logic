@@ -1,4 +1,4 @@
-# Module de logique
+# Moteur de logique propositionnelle
 
 Un moteur de logique propositionnelle léger pour Python. Ce module permet de construire des bases de connaissances complexes et d'effectuer des inférences logiques automatisées.
 
